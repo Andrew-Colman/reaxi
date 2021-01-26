@@ -1,0 +1,17 @@
+{
+  "name": "reaxi",
+  "version": "0.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {"name": "Andrew Colman"},
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.0.0"
+  },
+  "bin": {
+    "reaxi": "index.js"
+  },
+  "scripts": {
+    "dev": "echo dev"
+  }
+}

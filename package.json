@@ -1,17 +1,22 @@
 {
   "name": "reaxi",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "license": "MIT",
-  "author": {"name": "Andrew Colman"},
+  "author": {
+    "name": "Andrew Colman"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
-    "commander": "^7.0.0"
+    "commander": "8.0.0",
+    "inquirer": "^8.1.1"
   },
   "bin": {
     "reaxi": "index.js"
   },
   "scripts": {
-    "dev": "echo dev"
-  }
+    "dev": "echo dev",
+    "build": "echo build"
+  },
+  "devDependencies": {}
 }

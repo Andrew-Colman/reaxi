@@ -10,8 +10,9 @@ jest.config.js
 images/
 /*
 /*/
-!/dist
+index.ts
+utils/
+# published files:
+!dist/
 !package.json
 !README.md
-!index.js
-!utils

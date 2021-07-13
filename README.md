@@ -1,5 +1,7 @@
 ## reaxi
 
+<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022"> <img alt="wip" src="https://img.shields.io/static/v1?label=source%20code&message=wip&color=orange">
+
 > react + cli
 
 :wrench: [work in progress] 80% complete for dev version release (source code)

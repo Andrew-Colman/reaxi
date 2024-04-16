@@ -7,4 +7,15 @@ from the pre llm/gpt's era, now we will be revamping to integrate these tools an
 
 > react + cli
 
+core/cli -> generators
+reaxi-ai -> generators powered by ai
+reaxi-ui -> generate in a visual editor
+plugins -> community implementations for their ecosystems 
 
+gh -> generate apps from github
+
+w -> workspace management
+
+scan -> scan files & run any action
+
+pipelines -> pipelines of generators
